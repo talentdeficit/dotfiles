@@ -1,0 +1,8 @@
+brew "qemu"
+brew "podman"
+
+brew "ansible"
+
+brew "jq"
+
+cask "julia"
