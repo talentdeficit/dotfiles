@@ -1,6 +1,9 @@
 brew "qemu"
 brew "podman"
 
+brew "kubectl"
+brew "kind"
+
 brew "ansible"
 
 brew "jq"
