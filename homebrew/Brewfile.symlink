@@ -1,11 +1,15 @@
 brew "qemu"
 brew "podman"
 
+brew "minikube"
 brew "kubectl"
-brew "kind"
 
 brew "ansible"
 
 brew "jq"
 
 cask "julia"
+
+brew "go"
+brew "python"
+brew "python@3.8"
