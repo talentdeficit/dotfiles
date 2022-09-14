@@ -1,11 +1,18 @@
-brew "qemu"
-brew "podman"
-
-brew "kubectl"
-brew "kind"
-
-brew "ansible"
-
 brew "jq"
 
-cask "julia"
+brew "gpg2"
+
+brew "terraform"
+brew "git"
+
+cask "visual-studio-code"
+
+cask "google-chrome"
+cask "firefox"
+
+cask "rectangle"
+
+cask "1password"
+cask "discord"
+
+
