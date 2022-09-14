@@ -5,6 +5,9 @@ brew "gpg2"
 brew "terraform"
 brew "git"
 
+brew "qemu"
+brew "podman"
+
 cask "visual-studio-code"
 
 cask "google-chrome"
