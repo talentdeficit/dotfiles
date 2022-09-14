@@ -8,6 +8,9 @@ brew "git"
 brew "qemu"
 brew "podman"
 
+brew "python3.10"
+brew "go@1.18"
+
 cask "visual-studio-code"
 
 cask "google-chrome"
