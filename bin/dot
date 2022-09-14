@@ -49,7 +49,7 @@ $ZSH/homebrew/install.sh 2>&1
 # Upgrade homebrew
 echo "› brew update"
 brew update
-brew bundle
+brew bundle --file "~/Brewfile"
 
 # Install software
 echo "› $ZSH/script/install"
