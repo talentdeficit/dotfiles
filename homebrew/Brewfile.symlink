@@ -11,6 +11,8 @@ brew "podman"
 brew "python3.10"
 brew "go@1.18"
 
+brew "nvm"
+
 cask "visual-studio-code"
 
 cask "google-chrome"
