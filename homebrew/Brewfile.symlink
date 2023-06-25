@@ -1,3 +1,5 @@
+brew "ca-certificates"
+
 brew "qemu"
 brew "podman"
 
@@ -6,10 +8,29 @@ brew "kubectl"
 
 brew "ansible"
 
+brew "sqlite"
+
 brew "jq"
+brew "curl"
+brew "wget"
 
 cask "julia"
 
 brew "go"
+
 brew "python"
-brew "python@3.8"
+brew "python@3.11"
+brew "pyenv"
+brew "pyenv-virtualenv"
+brew "poetry"
+
+cask "visual-studio-code"
+cask "tailscale"
+cask "rectangle"
+cask "1password"
+
+cask "firefox"
+cask "google-chrome"
+
+cask "discord"
+cask "spotify"
